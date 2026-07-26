@@ -24,6 +24,7 @@
 ### 🛠️ Loadout
 
 **Languages**
+
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -44,6 +45,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&logoColor=07405E)
 
 **Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=AndroidStudio&logoColor=3DDC84)
