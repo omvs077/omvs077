@@ -6,7 +6,20 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pin.it/1yXYZFuND)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/ommy077)
 
-<br>
+### 🎯 Main Quests
+
+<p align="left">
+<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="270"/></a>
+<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="270"/></a>
+<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="270"/></a>
+<br/>
+<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="270"/></a>
+<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="270"/></a>
+<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="270"/></a>
+<br/>
+<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="270"/></a>
+<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="270"/></a>
+</p>
 
 ### 🛠️ Loadout
 
@@ -41,27 +54,5 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=AndroidStudio&logoColor=3DDC84)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=VisualStudioCode&logoColor=007ACC)
 
-**Design & Creative**
-
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=AdobePhotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=AdobeIllustrator&logoColor=FF9A00)
-![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva&logoColor=00C4CC)
-
 <br>
-
-### 🎯 Main Quests
-
-<p align="left">
-<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="270"/></a>
-<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="270"/></a>
-<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="270"/></a>
-<br/>
-<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="270"/></a>
-<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="270"/></a>
-<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="270"/></a>
-<br/>
-<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="270"/></a>
-<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="270"/></a>
-</p>
 
