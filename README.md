@@ -24,7 +24,6 @@
 ### 🛠️ Loadout
 
 **Languages**
-
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -40,17 +39,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=6DB33F)
 
-**Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&logoColor=07405E)
 
 **Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=AndroidStudio&logoColor=3DDC84)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=VisualStudioCode&logoColor=007ACC)
-
 <br>
 
