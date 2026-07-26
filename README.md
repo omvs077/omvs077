@@ -33,8 +33,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 
-**Frameworks & Libraries**
-
 ![Qt](https://img.shields.io/badge/-Qt%2FQML-000?&logo=Qt&logoColor=41CD52)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
