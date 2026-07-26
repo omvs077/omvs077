@@ -8,26 +8,49 @@
 
 <br>
 
-![](https://img.shields.io/badge/-LOADOUT-00e5ff?style=flat-square)
+### 🛠️ Loadout
+
+**Languages**
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Qt](https://img.shields.io/badge/-Qt%2FQML-000?&logo=Qt&logoColor=41CD52)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+
+**Frameworks & Libraries**
+
+![Qt](https://img.shields.io/badge/-Qt%2FQML-000?&logo=Qt&logoColor=41CD52)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=6DB33F)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=6DB33F)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&logoColor=07405E)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=AndroidStudio&logoColor=3DDC84)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=VisualStudioCode&logoColor=007ACC)
+
+**Design & Creative**
+
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=AdobePhotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=AdobeIllustrator&logoColor=FF9A00)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva&logoColor=00C4CC)
 
 <br>
 
-![](https://img.shields.io/badge/-MAIN%20QUESTS-ff3cac?style=flat-square)
+### 🎯 Main Quests
 
 <p align="left">
 <a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="270"/></a>
@@ -42,11 +65,3 @@
 <a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="270"/></a>
 </p>
 
-<br>
-
-![](https://img.shields.io/badge/-GITHUB%20STATS-00e5ff?style=flat-square)
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fomvs077&query=public_repos&label=repositories&color=ffbd2e&style=flat-square)
-![Followers](https://img.shields.io/github/followers/omvs077?label=followers&color=00e5ff&style=flat-square)
-![ByteLock](https://img.shields.io/github/stars/omvs077/ByteLock?label=%E2%98%85%20ByteLock&color=ff3cac&style=flat-square)
-![FileFlattener](https://img.shields.io/github/stars/omvs077/FileFlattener?label=%E2%98%85%20FileFlattener&color=ff3cac&style=flat-square)
