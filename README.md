@@ -10,14 +10,20 @@
 
 ![](https://img.shields.io/badge/-LOADOUT-00e5ff?style=flat-square)
 
-![C++](https://img.shields.io/badge/C++%20%2F%20QML-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter%20%2F%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java%20%2F%20Spring-5382A1?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20%2F%20Flask-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL%20%2F%20SQLite-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Qt](https://img.shields.io/badge/-Qt%2FQML-000?&logo=Qt&logoColor=41CD52)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&logoColor=07405E)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 
 <br>
 
