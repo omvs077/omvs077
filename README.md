@@ -13,16 +13,16 @@
 <img src="./assets/cards/main_quests_header.png" width="100%"/>
 
 <p align="left">
-<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="250"/></a>
-<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="250"/></a>
-<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="250"/></a>
+<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="270"/></a>
+<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="270"/></a>
+<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="270"/></a>
 <br/>
-<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="250"/></a>
-<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="250"/></a>
-<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="250"/></a>
+<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="270"/></a>
+<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="270"/></a>
+<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="270"/></a>
 <br/>
-<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="250"/></a>
-<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="250"/></a>
+<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="270"/></a>
+<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="270"/></a>
 </p>
 
 <br>
