@@ -8,6 +8,24 @@
 
 <br>
 
+<img src="./assets/main_quests_header.png" width="100%"/>
+
+<p align="left">
+<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="410"/></a>
+<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="410"/></a>
+<br/>
+<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="410"/></a>
+<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="410"/></a>
+<br/>
+<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="410"/></a>
+<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="410"/></a>
+<br/>
+<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="410"/></a>
+<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="410"/></a>
+</p>
+
+<br>
+
 ### 🛠️ Loadout
 
 **Languages**
@@ -49,20 +67,4 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva&logoColor=00C4CC)
 
 <br>
-
-<img src="./assets/main_quests_header.png" width="100%"/>
-
-<p align="left">
-<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="410"/></a>
-<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="410"/></a>
-<br/>
-<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="410"/></a>
-<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="410"/></a>
-<br/>
-<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="410"/></a>
-<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="410"/></a>
-<br/>
-<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="410"/></a>
-<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="410"/></a>
-</p>
 
