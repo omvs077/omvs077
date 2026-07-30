@@ -8,8 +8,6 @@
 <a href="https://discordapp.com/users/ommy077"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
 
-<br>
-
 <img src="./assets/cards/main_quests_header.png" width="95%"/>
 
 <p align="left">
