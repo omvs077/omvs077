@@ -1,27 +1,28 @@
 <img src="./assets/hero.png" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omvs077)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omvs077@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@dvvyom)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pin.it/1yXYZFuND)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/ommy077)
+<p align="center">
+<a href="https://www.linkedin.com/in/omvs077"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:omvs077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/@dvvyom"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://pin.it/1yXYZFuND"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white"/></a>
+<a href="https://discordapp.com/users/ommy077"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+</p>
 
 <br>
 
-<img src="./assets/main_quests_header.png" width="100%"/>
+<img src="./assets/cards/main_quests_header.png" width="100%"/>
 
 <p align="left">
-<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="410"/></a>
-<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="410"/></a>
+<a href="https://github.com/omvs077/ByteLock"><img src="./assets/cards/card_bytelock.png" width="300"/></a>
+<a href="https://github.com/omvs077/FileFlattener"><img src="./assets/cards/card_fileflattener.png" width="300"/></a>
+<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="300"/></a>
 <br/>
-<a href="https://github.com/omvs077/speeddial-board-browser-extension"><img src="./assets/cards/card_speeddial_board.png" width="410"/></a>
-<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="410"/></a>
+<a href="https://github.com/omvs077/ClipManager"><img src="./assets/cards/card_clipmanager.png" width="300"/></a>
+<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="300"/></a>
+<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="300"/></a>
 <br/>
-<a href="https://github.com/omvs077/TaskBuddy-taskmanager"><img src="./assets/cards/card_taskbuddy.png" width="410"/></a>
-<a href="https://github.com/omvs077/GeruBlocks"><img src="./assets/cards/card_gerublocks.png" width="410"/></a>
-<br/>
-<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="410"/></a>
-<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="410"/></a>
+<a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="300"/></a>
+<a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="300"/></a>
 </p>
 
 <br>
@@ -65,6 +66,3 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=AdobePhotoshop&logoColor=31A8FF)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=AdobeIllustrator&logoColor=FF9A00)
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva&logoColor=00C4CC)
-
-<br>
-
