@@ -8,8 +8,6 @@
 <a href="https://discordapp.com/users/ommy077"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
 
-<br>
-
 <img src="./assets/cards/main_quests_header.png" width="100%"/>
 
 <p align="left">
@@ -24,8 +22,6 @@
 <a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="275"/></a>
 <a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="275"/></a>
 </p>
-
-<br>
 
 <img src="./assets/cards/loadout_header.png" width="100%"/>
 
