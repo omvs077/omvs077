@@ -6,6 +6,7 @@
 <a href="https://www.youtube.com/@dvvyom"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 <a href="https://pin.it/1yXYZFuND"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white"/></a>
 <a href="https://discordapp.com/users/ommy077"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/white_wolf20325/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a>
 </p>
 
 <img src="./assets/cards/main_quests_header.png" width="100%"/>
@@ -21,6 +22,7 @@
 <br/>
 <a href="https://github.com/omvs077/svaar-music"><img src="./assets/cards/card_svaar-music.png" width="275"/></a>
 <a href="https://github.com/omvs077/ai-chat-to-word-and-pdf"><img src="./assets/cards/card_ai-chat-to-word-and-pdf.png" width="275"/></a>
+<a href="https://github.com/omvs077/climagrid"><img src="./assets/cards/card_climagrid.png" width="275"/></a>
 </p>
 
 <img src="./assets/cards/loadout_header.png" width="100%"/>
